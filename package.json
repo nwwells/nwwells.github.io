@@ -1,0 +1,19 @@
+{
+  "name": "nwwells.github.io",
+  "version": "1.0.0",
+  "description": "Nathan Wells's Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwwells/nwwells.github.io.git"
+  },
+  "author": "Nathan Wells <nwwells@gmail.com>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/nwwells/nwwells.github.io/issues"
+  },
+  "homepage": "https://github.com/nwwells/nwwells.github.io#readme"
+}
