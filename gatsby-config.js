@@ -4,7 +4,7 @@
 module.exports = {
   siteMetadata: {
     title: `Nathan Wells Consulting`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://nwwells.com`,
   },
   plugins: [
     {
